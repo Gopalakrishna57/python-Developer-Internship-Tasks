@@ -1,0 +1,5 @@
+Product,Category,Sales
+Laptop,Electronics,1000
+Mobile,Electronics,500
+Chair,Furniture,200
+Table,Furniture,300
